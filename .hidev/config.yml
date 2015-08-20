@@ -1,0 +1,13 @@
+package:
+    name:           hiam
+    label:          AdvancedHostersHIAM
+    title:          AdvancedHosters HIAM
+    type:           project
+    homepage:       https://advancedhosters.com/
+    keywords:       advancedhosters, hiam, login, access management
+    year:           2015
+    description:    This is AdvancedHosters realization of HIAM
+
+require:
+    advancedhosters/hidev-config:   "*"
+    hiqdev/hidev-config-php:        "*"

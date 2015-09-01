@@ -4,6 +4,7 @@ advancedhosters/hiam commits history
 ## Under development
 
 - Added use of yii2-asset-advancedhosters params for common/config/params.php
+    - 2595e5a 2015-09-01 php-cs-fixed (sol@hiqdev.com)
     - 5c29a68 2015-09-01 + use of yii2-asset-advancedhosters params for common/config/params.php (sol@hiqdev.com)
 - Inited
     - 4aeb563 2015-08-20 inited (sol@hiqdev.com)

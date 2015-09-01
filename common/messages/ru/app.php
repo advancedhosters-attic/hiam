@@ -1,12 +1,12 @@
 <?php
 
 /*
- * AHnames HIAM
+ * AdvancedHosters HIAM
  *
- * @link      https://ahnames.com/
+ * @link      https://advancedhosters.com/
  * @package   hiam
  * @license   No license
- * @copyright Copyright (c) 2015, AHnames (https://ahnames.com/)
+ * @copyright Copyright (c) 2015, AdvancedHosters (https://advancedhosters.com/)
  */
 
 /**

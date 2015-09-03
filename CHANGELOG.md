@@ -3,6 +3,7 @@ advancedhosters/hiam changelog
 
 ## Under development
 
+- Added local User model
 - Fixed requires
 - Inited
 

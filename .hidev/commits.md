@@ -4,6 +4,7 @@ advancedhosters/hiam commits history
 ## Under development
 
 - Added local User model
+    - 9d92b98 2015-09-03 fixed SQL for rcp peculiarities (sol@hiqdev.com)
     - 5bda581 2015-09-03 + common/models/User (sol@hiqdev.com)
     - fc36d70 2015-09-03 + console/runtime (sol@hiqdev.com)
 - Fixed requires

@@ -10,4 +10,9 @@
  */
 
 return [
+    'components' => [
+        'user' => [
+            'identityClass'   => 'common\models\User',
+        ],
+    ],
 ];

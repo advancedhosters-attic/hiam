@@ -9,7 +9,6 @@ use Yii;
  */
 class User extends \hiam\common\models\User
 {
-
     public static function findByUsername ($username,$password=null) {
         $query = static::find()
             ->select    (['c.obj_id AS id','c.obj_id','c.login','c.type_id','c.state_id','c.reseller_id AS seller_id',
